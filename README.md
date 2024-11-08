@@ -18,7 +18,7 @@ Please refer to this document for more information.
 This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited. I am **not** responsible for any consequences arising from the use of the tool, which is done at your own risk.
 ## Building
 Building is done using the ArduinoIDE. Make sure you have added the board manager URL for Realtek MCUs and installed them in the board manager (see [here](https://www.amebaiot.com/en/amebad-bw16-arduino-getting-started/) for tutorial).
-1) Clone this repo using `git clone https://github.com/tesa-klebeband/RTL8720dn-Deauther.git`
+1) Clone this repo using `git clone https://github.com/n0tAv1ru5/RTL8720dn-5GHz-Wifi-Deauther.git`
 2) Open .ino file the cloned folder in the Arduino IDE
 3) Connect your board and click upload (hold the boot button, connect to your PC, and release the button then try upload again if the upload fails).
 ### Notes
