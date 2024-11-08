@@ -2,13 +2,17 @@
 ![logo](https://github.com/user-attachments/assets/ab8ebf84-eee2-4298-8975-2e8dad13c1b3)
 
 # CREDIT
-A modified version of [tesa-klebeband RTL8720dn-Deauther](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
+#### A modified version of [tesa-klebeband RTL8720dn-Deauther](https://github.com/tesa-klebeband/RTL8720dn-Deauther).
 
+Please refer to this document for more information.
 #### Changes:
-- Added CSS
-- Removed the reason input
-- Used a checkbox to choose the target instead of form input
-- Changed LED behaviors
+- Added CSS.
+- Removed the reason input.
+- Used a checkbox to choose the target instead of form input.
+- Changed LED behaviors.
+
+![preview](https://i.imgur.com/Z4QIp9m.jpeg)
+![preview](https://i.imgur.com/pHEs8CX.jpeg)
 
 # DISCLAIMER
 This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited. I am **not** responsible for any consequences arising from the use of the tool, which is done at your own risk.
